@@ -1,0 +1,53 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+
+/* index Datei */
+body {
+  background-color:  rgba(156, 231, 253, 0.856);
+}
+.welcome {
+  font-size: 110px;
+  font-family: fantasy;
+  
+}
+.intro {
+  font-size: 40px;
+  
+}
+.content {
+  border: solid thin;
+  margin: 70px;
+  height: 700px;
+  padding: 50px;
+  text-align: center;
+}
+.pages ul{
+  display: inline-flex;
+  padding-top: 100px;
+}
+.pages ul li{
+  list-style: none;
+  margin-right: 30px;
+  cursor: pointer;
+  color: black;
+  font-size: 20px;
+}
+.songlyrics {
+  border: 3px dotted black;
+  border-radius: 19px;
+  padding: 7px;
+  color: rgba(56, 123, 143, 0.822);
+}
+.skz {  /* quotes */
+  margin-top: 90px;
+  text-align: center;
+  font-size: 80px;
+}
+.image {
+  width: 50px;
+  margin-top: 180px;
+}
